@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "GEMSS"]
 	path = GEMSS
-	url = https://github.com/cran/GEMSS
+	url = https://github.com/szhua-stat/gemss
